@@ -1,1 +1,1 @@
-<img src='./media/Carlos-Jurado-Software-Developer.gif'>
+<img src='./media/Carlos-Jurado-Software-Developer-15.gif'>
