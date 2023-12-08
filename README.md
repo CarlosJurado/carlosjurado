@@ -15,7 +15,7 @@
 
 <br>
 
-## Proyectos
+## Projects
 
 <table>
 <tr>
