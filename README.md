@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://carlosjurado.net">Carlos Jurado</a> 👋</h1>
 </div>
 
-<img src='https://github.com/CarlosJurado/carlosjurado/blob/main/media/Carlos-Jurado-Software-Developer-15.gif'>
+![Carlos Jurado](https://raw.githubusercontent.com/CarlosJurado/carlosjurado/main/media/Carlos-Jurado-Software-Developer-15.gif)
 
 ## About me
 
