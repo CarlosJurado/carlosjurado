@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://carlosjurado.net">Carlos Jurado</a> 👋</h1>
 </div>
 
-[<img src="[Carlos Jurado](https://github.com/CarlosJurado/carlosjurado/blob/main/media/Carlos-Jurado-Software-Developer.jpg)">]([http://example.com/](https://carlosjurado.net/))
+![Carlos Jurado](https://github.com/CarlosJurado/carlosjurado/blob/main/media/Carlos-Jurado-Software-Developer.jpg)(https://carlosjurado.net/)
 
 ## About me
 
